@@ -34,23 +34,23 @@ header a {
 }
 
 section {
-    height: 100vh;
     border: 1px solid grey;
     align-items: center;
     justify-content: center;
     display: flex;
+    margin: auto;
 }
 
 .title {
     text-align: center;
 }
 
-
 .container {
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 10%;
     margin-bottom: 10%;
+    
 }
 
 .container li {
